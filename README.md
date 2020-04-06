@@ -1,1 +1,3 @@
 # MummySniper
+# Simple
+# Single game
